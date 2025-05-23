@@ -69,12 +69,8 @@ Each dataset includes solar potential metrics:
 
 ## 🌐 Deployment
 
-To deploy publicly:
+You can access the deployed dashboard using this link- https://solar-challenge-week1-7jjovvpydgahquvklnlphr.streamlit.app/
 
-1. Push this repo to GitHub.
-2. Go to [Streamlit Community Cloud](https://streamlit.io/cloud).
-3. Connect your GitHub repo and select `app/main.py` as the entry point.
-4. Share the public URL!
 
 
 ## ✍️ Author
