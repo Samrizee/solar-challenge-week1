@@ -62,7 +62,7 @@ streamlit run app/main.py
 Each dataset includes solar potential metrics:
 
 * **GHI** — Global Horizontal Irradiance
-* **DNI** — Direct Normal Irradiance
+* **DNI** — Direct Normal Irradiance 
 * **DHI** — Diffuse Horizontal Irradiance
 
 ---
